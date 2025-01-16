@@ -1,8 +1,8 @@
 - 👋 Hi, This is 4Timie
 - 👀 I’m interested in building something, anything. 
-- 🌱 I’m currently learning HTML, CSS, Javascript, Java, and SQL.
-- 💞️ I’m looking to collaborate on any project for beginner coders. 
-- 📫 How to reach me? Just message me here. 
+- 🌱 I’m currently learning HTML, CSS, Javascript, and Angular.
+- 💞️ I’m looking to collaborate on any project. 
+- 📫 How to reach me? boneless96@gmail.com. Yeah, laugh.  
 
 <!---
 4Timie/4Timie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
